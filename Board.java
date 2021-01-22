@@ -1,6 +1,5 @@
 /*
-* Copyright (c) 2020
-*
+
 * This program asks user to enter the length and width, and it calculates 
 * the height so that the result is exactly 1 board foot, which is 
 * 144 inches^3
